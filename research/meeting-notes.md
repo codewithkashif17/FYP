@@ -13,19 +13,6 @@
 - User roles identify karne hain.
 
 ### Decisions
+ still waiting for Team Checking  . . .
 
-- ...
 
-### Open Questions
-
-- Target district?
-- Exact user roles?
-- Which departments?
-- Citizen services ka scope?
-- Admin hierarchy?
-
-### Action Items
-
-- [ ] Website architecture draft
-- [ ] Target features list
-- [ ] District scope research
